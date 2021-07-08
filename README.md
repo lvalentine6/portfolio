@@ -21,10 +21,10 @@
 >개발 기간: 2021-05-24 ~ 2021-06-04  
 >  
 >기술 스택:  
->Language : Java(8), JavaScript(ES5), HTML5, CSS3
-Framework / Library : Spring, Mybatis
-DBMS : Oracle, MySQL
-Tool : Maven, Git / GIthub 
+>Language : Java(8), JavaScript(ES5), HTML5, CSS3     
+Framework / Library : Spring, Mybatis      
+DBMS : Oracle, MySQL       
+Tool : Maven, Git / GIthub          
 >  
 >[프로젝트 상세 설명](https://github.com/lvalentine6/Project_GroupWare) 참고
 
