@@ -22,7 +22,7 @@
 >  
 >기술 스택:  
 >Language : Java(8), JavaScript(ES5), HTML5, CSS3     
->Library : jQuery
+>Library : jQuery      
 >Server : Tomcat 9.0      
 >DBMS : Oracle       
 >Tool : Git / GIthub          
