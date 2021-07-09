@@ -29,14 +29,3 @@
 >  
 >[프로젝트 상세 설명](https://github.com/lvalentine6/Project_GroupWare) 참고
 
----
-
-### 2. [파이널 프로젝트]()
->여행 플래너 서비스  (팀 프로젝트)  
->개발 기간: 2020.7.18 ~ 2020.11.5  
->  
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
->  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
