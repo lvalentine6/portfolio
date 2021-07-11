@@ -9,7 +9,7 @@
 </br>
 
 ## :pushpin: Contact
-- Email: ysr1227@gmail.com
+- Email: ysr1227@naver.com
 - Blog: https://rovictory.tistory.com/
 - Github: https://github.com/lvalentine6
 
