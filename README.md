@@ -27,5 +27,5 @@
 >DBMS : Oracle       
 >Tool : Git / GIthub          
 >  
->[프로젝트 상세 설명](https://github.com/lvalentine6/Project_GroupWare) 참고
+>[프로젝트 상세 설명](https://bit.ly/2VmlPA6) 참고
 
