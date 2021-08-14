@@ -33,3 +33,17 @@
 >  
 >[프로젝트 상세 설명](https://bit.ly/2VmlPA6) 참고
 
+## :pushpin: Projects
+#### 1. [Naeilro  (프로젝트 링크)](https://bit.ly/3k7dwT1) 
+>다양한 기능이 존재하는 그룹웨어 (팀 프로젝트)  
+>개발 기간: 2021-05-24 ~ 2021-06-04  
+>  
+>기술 스택:  
+>Language : Java(8), JavaScript(ES5), HTML5, CSS3     
+>Library : jQuery      
+>Server : Tomcat 9.0      
+>DBMS : Oracle       
+>Tool : Git / GIthub          
+>  
+>[프로젝트 상세 설명](https://bit.ly/2VmlPA6) 참고
+
