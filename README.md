@@ -27,22 +27,24 @@
 >기술 스택:  
 >Language : Java(8), JavaScript(ES5), HTML5, CSS3     
 >Library : jQuery      
->Server : Tomcat 9.0      
->DBMS : Oracle       
+>Server : Tomcat (9.0)      
+>DBMS : Oracle (11g)      
 >Tool : Git / GIthub          
 >  
 >[프로젝트 상세 설명](https://bit.ly/2VmlPA6) 참고
 
-#### 2. [Naeilro  (프로젝트 링크)](https://bit.ly/3k7dwT1) 
->다양한 기능이 존재하는 그룹웨어 (팀 프로젝트)  
->개발 기간: 2021-05-24 ~ 2021-06-04  
+#### 2. [Naeilro  (프로젝트 링크)](https://bit.ly/3iNIjDn) 
+>여행 일자, 숙소, 가고 싶은 장소만 선택하면
+여행 플래너가 작성되는 프로젝트 (팀 프로젝트)  
+>개발 기간: 2021-07-09 ~ 2021-08-03  
 >  
 >기술 스택:  
 >Language : Java(8), JavaScript(ES5), HTML5, CSS3     
->Library : jQuery      
->Server : Tomcat 9.0      
->DBMS : Oracle       
->Tool : Git / GIthub          
+>Library : jQuery, Bootstrap (4)     
+>Framework : Spring (5)      
+>Server : Tomcat (9.0)      
+>DBMS : Oracle (11g)       
+>Tool : Git / GIthub, Maven (3.6.1)          
 >  
->[프로젝트 상세 설명](https://bit.ly/2VmlPA6) 참고
+>[프로젝트 상세 설명](https://bit.ly/3yNJp7W) 참고
 
