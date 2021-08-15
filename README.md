@@ -28,7 +28,7 @@
 >기술 스택:  
 >Language : Java(8), JavaScript(ES5), HTML5, CSS3     
 >Library : jQuery, Bootstrap (4)     
->Framework : Spring (5)      
+>Framework : Spring (5), MyBatis      
 >Server : Tomcat (9.0)      
 >DBMS : Oracle (11g)       
 >Tool : Git / GIthub, Maven (3.6.1)          
