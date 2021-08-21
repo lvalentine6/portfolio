@@ -32,8 +32,9 @@
 >Server : Tomcat (9.0)        
 >DBMS : Oracle (11g)         
 >Tool : Git / GIthub, Maven (3.6.1)                   
->  
+>
 >[프로젝트 상세 설명](https://bit.ly/3yNJp7W) 참고
+***
 #### 2. [GroupWare  (프로젝트 링크)](https://bit.ly/3k7dwT1) 
 >다양한 기능이 존재하는 그룹웨어 (팀 프로젝트)  
 >
