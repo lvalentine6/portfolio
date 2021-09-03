@@ -46,7 +46,7 @@
 >Library : jQuery      
 >Server : Tomcat (9.0)      
 >DBMS : Oracle (11g)      
->Tool : Git / GIthub          
+>Tool : Git / GIthub       
 >  
 >[프로젝트 상세 설명](https://bit.ly/2VmlPA6) 참고
 
