@@ -27,12 +27,12 @@
 >개발 기간: 2021-07-09 ~ 2021-08-03  
 >  
 >기술 스택:  
->Language : Java(8), JavaScript(ES5), HTML5, CSS3       
->Framework : Spring (5), MyBatis       
->Library : jQuery, Bootstrap (4)          
->Server : Tomcat (9.0)        
->DBMS : Oracle (11g)         
->Tool : Git / GIthub, Maven (3.6.1)                   
+> * Java(8), JavaScript(ES5), HTML5, CSS3       
+> * Spring (5), MyBatis       
+> * jQuery, Bootstrap (4)          
+> * Tomcat (9.0)        
+> * Oracle (11g)         
+> * Git / GIthub, Maven (3.6.1)                   
 >
 >[프로젝트 상세 설명](https://bit.ly/3yNJp7W) 참고
 ***
@@ -42,11 +42,11 @@
 >개발 기간: 2021-05-24 ~ 2021-06-04  
 >  
 >기술 스택:  
->Language : Java(8), JavaScript(ES5), HTML5, CSS3     
->Library : jQuery      
->Server : Tomcat (9.0)      
->DBMS : Oracle (11g)      
->Tool : Git / GIthub       
+> * Java(8), JavaScript(ES5), HTML5, CSS3     
+> * jQuery      
+> * Tomcat (9.0)      
+> * Oracle (11g)      
+> * Git / GIthub       
 >  
 >[프로젝트 상세 설명](https://bit.ly/2VmlPA6) 참고
 
